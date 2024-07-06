@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>out 내장객체로 폼 페이지에서 아이디와 비밀번호를 전송받아 출력하기 </title>
+<title>out 내장객체로 폼 페이지에서 아이디와 비밀번호를 전송받아 출력하기. </title>
 </head>
 <body>
 	<form action="out02_process.jsp" method="post">

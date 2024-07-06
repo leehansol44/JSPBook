@@ -3,7 +3,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>response 내장객체로 5초마다 JSP 페이지 갱신하기 </title>
+<title>response 내장객체로 5초마다 JSP 페이지 갱신하기. </title>
 </head>
 <body>
 	<p> 이 페이지는 5초마다 새로고침 됩니다. 

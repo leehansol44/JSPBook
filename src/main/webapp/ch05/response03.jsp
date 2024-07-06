@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>response내장객체로 오류 응답 코드와 오류 메시지 보내기 </title>
+<title>response내장객체로 오류 응답 코드와 오류 메시지 보내기. </title>
 </head>
 <body>
 	<%
